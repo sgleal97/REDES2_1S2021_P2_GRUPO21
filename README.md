@@ -7,3 +7,4 @@
 ----
 ----
 # Topologia 
+![](topologia.PNG)
